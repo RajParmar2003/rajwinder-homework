@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rajwinder-homework/static/css/main.e6c13ad2.css",
+    "main.js": "/rajwinder-homework/static/js/main.f3ef8e20.js",
+    "index.html": "/rajwinder-homework/index.html",
+    "main.e6c13ad2.css.map": "/rajwinder-homework/static/css/main.e6c13ad2.css.map",
+    "main.f3ef8e20.js.map": "/rajwinder-homework/static/js/main.f3ef8e20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f3ef8e20.js"
+  ]
+}
